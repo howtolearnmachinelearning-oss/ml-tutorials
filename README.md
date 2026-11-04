@@ -1,2 +1,34 @@
-# ml-tutorials
-Practical machine learning notebooks and Python examples from howtolearnmachinelearning.com
+# Machine Learning Tutorials 🦉
+
+Hey friends! Learn machine learning by running code, exploring charts, and trying small challenges.
+
+These guided notebooks accompany the tutorials at [How to Learn Machine Learning](https://howtolearnmachinelearning.com/).
+
+## Start here: Classification Threshold Tuning
+
+What happens when a missed case costs more than a false alarm?
+
+Through seven guided steps, you’ll:
+- Train a classifier and explore its predictions.
+- Change decision thresholds and error costs.
+- Compare confusion matrices, precision, and recall.
+- Choose a cutoff using validation data.
+- Evaluate your final choice on untouched test data.
+
+[▶ Open in Colab](https://colab.research.google.com/github/howtolearnmachinelearning-oss/ml-tutorials/blob/main/classification-threshold-tuning.ipynb)
+
+[📖 Read the full tutorial](https://howtolearnmachinelearning.com/articles/classification-threshold-tuning/)
+
+## How to use the notebook
+
+1. Open it in Colab.
+2. Run the cells from top to bottom.
+3. Pause at the questions and predict the results.
+4. Try the mini-challenges!
+
+The notebook generates its own synthetic dataset.
+
+## Keep learning
+
+- [Model evaluation guide](https://howtolearnmachinelearning.com/articles/evaluating-machine-learning-models/)
+- [Free 90-Day Machine Learning Roadmap](https://how-to-learn-machine-learning.kit.com/7a25f667cb)
