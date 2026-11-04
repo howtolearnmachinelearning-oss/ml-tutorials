@@ -19,6 +19,20 @@ Through seven guided steps, you’ll:
 
 [📖 Read the full tutorial](https://howtolearnmachinelearning.com/articles/classification-threshold-tuning/)
 
+## ROC AUC vs PR AUC 🦉
+
+Why can a classifier have a good ROC AUC but produce mostly false alarms?
+
+Explore seven guided steps, four charts, and mini-challenges covering:
+- Class imbalance and precision.
+- ROC and precision-recall curves.
+- Average precision versus trapezoidal PR AUC.
+- Experiments with prevalence and thresholds.
+
+[▶ Open in Colab](https://colab.research.google.com/github/howtolearnmachinelearning-oss/ml-tutorials/blob/main/roc-auc-vs-pr-auc.ipynb)
+
+[📖 Read the full tutorial](https://howtolearnmachinelearning.com/articles/roc-auc-vs-pr-auc/)
+
 ## How to use the notebook
 
 1. Open it in Colab.
