@@ -33,6 +33,12 @@ Explore seven guided steps, four charts, and mini-challenges covering:
 
 [📖 Read the full tutorial](https://howtolearnmachinelearning.com/articles/roc-auc-vs-pr-auc/)
 
+## Probability Calibration in Python 🦉
+
+When a model predicts an 80% chance, how often does the event happen? Check its forecasts against real outcomes in a synthetic dataset, fit a sigmoid calibrator, and compare reliability diagrams and Brier scores.
+
+[Open in Colab](https://colab.research.google.com/github/howtolearnmachinelearning-oss/ml-tutorials/blob/main/probability-calibration.ipynb) · [Read the tutorial](https://howtolearnmachinelearning.com/articles/probability-calibration-python/)
+
 ## How to use the notebook
 
 1. Open it in Colab.
