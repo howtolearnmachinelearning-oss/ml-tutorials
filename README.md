@@ -39,6 +39,12 @@ When a model predicts an 80% chance, how often does the event happen? Check its 
 
 [Open in Colab](https://colab.research.google.com/github/howtolearnmachinelearning-oss/ml-tutorials/blob/main/probability-calibration.ipynb) · [Read the tutorial](https://howtolearnmachinelearning.com/articles/probability-calibration-python/)
 
+## Learning Curves in Python 🦉
+
+How few training examples can you use and still meet the error target? Choose a linear or cubic model, predict its validation error from the learning curve, and use feedback from each attempt to find the smallest training set that works.
+
+[Open in Colab](https://colab.research.google.com/github/howtolearnmachinelearning-oss/ml-tutorials/blob/main/learning-curves.ipynb) · [Read the tutorial](https://howtolearnmachinelearning.com/articles/learning-curves-python/)
+
 ## How to use the notebook
 
 1. Open it in Colab.
