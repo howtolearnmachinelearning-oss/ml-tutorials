@@ -45,6 +45,12 @@ How few training examples can you use and still meet the error target? Choose a 
 
 [Open in Colab](https://colab.research.google.com/github/howtolearnmachinelearning-oss/ml-tutorials/blob/main/learning-curves.ipynb) · [Read the tutorial](https://howtolearnmachinelearning.com/articles/learning-curves-python/)
 
+### 5. Permutation Feature Importance
+
+Which of four sensors would you monitor? Make a prediction, shuffle one sensor at a time, then try a pair. Does your first pick still hold up? Worked answers are at the end.
+
+[Open in Colab](https://colab.research.google.com/github/howtolearnmachinelearning-oss/ml-tutorials/blob/main/permutation-feature-importance.ipynb) · [View notebook](./permutation-feature-importance.ipynb) · [Read the article](https://howtolearnmachinelearning.com/articles/permutation-feature-importance-python/)
+
 ## How to use the notebook
 
 1. Open it in Colab.
