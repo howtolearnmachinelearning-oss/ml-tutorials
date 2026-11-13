@@ -51,6 +51,12 @@ Which of four sensors would you monitor? Make a prediction, shuffle one sensor a
 
 [Open in Colab](https://colab.research.google.com/github/howtolearnmachinelearning-oss/ml-tutorials/blob/main/permutation-feature-importance.ipynb) · [View notebook](./permutation-feature-importance.ipynb) · [Read the article](https://howtolearnmachinelearning.com/articles/permutation-feature-importance-python/)
 
+### 6. Bootstrap Confidence Intervals
+
+Would you switch models for a small drop in prediction error? Compare two models on the same 300 cases, predict what happens when you break the pairs, and use a bootstrap interval to make your call. Worked answers are at the end.
+
+[Open in Colab](https://colab.research.google.com/github/howtolearnmachinelearning-oss/ml-tutorials/blob/main/bootstrap-confidence-intervals.ipynb) · [View notebook](./bootstrap-confidence-intervals.ipynb) · [Read the article](https://howtolearnmachinelearning.com/articles/bootstrap-confidence-intervals-python/)
+
 ## How to use the notebook
 
 1. Open it in Colab.
